@@ -84,7 +84,7 @@ else
   fi
 fi
 ```
-Press Ctrl + O to save para salvar enable_i2c.sh then Ctrl + X to get out from nano editor.
+Press Ctrl + O to save enable_i2c.sh then Ctrl + X to get out from nano editor.
 
 Make enable_i2c.sh runnable
 ```bash
