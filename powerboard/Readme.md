@@ -1,3 +1,5 @@
+![Powerboard_info](https://github.com/user-attachments/assets/0c8aad6d-7024-45fa-a9cf-c5a1136f7aca)
+
 # How to install 
 ## Readme
 The shell script will detect the platform of your Raspberry Pi from Raspberry Pi 4B and Raspberry Pi 5, and also detect the architechture of your CPU from 32bit to 64bit. and will install the right binary file to /usr/sbin location. 
